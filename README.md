@@ -2,7 +2,9 @@
 
 ## Contributors :
 - Eliott GUILLOSSOU
+  - https://github.com/eliottguls
 - Axel MICHELO
+  - https://github.com/aspenne
 
 ## Context : 
 We have national data on the number of Covid cases by age group and
